@@ -1,39 +1,21 @@
 # Hi, I'm Ahmad Rouzbehani 👋
 
-### Software Engineer | AI Agents | Robotics | Engineering Automation
+I'm a **Software Developer & Civil Engineer** who enjoys turning ideas, engineering challenges, and complex workflows into practical software solutions.
 
-I'm a software developer and civil engineer passionate about building intelligent systems that connect **software, engineering, automation, and the physical world**.
-
-My work has evolved from engineering automation and enterprise applications into **AI-powered platforms, autonomous agents, robotics, and connected systems**.
-
-I enjoy transforming complex problems into practical, scalable solutions — from automating engineering workflows to designing software that can reason, interact, and act.
+My experience spans **full-stack development, engineering automation, enterprise systems, and integrations**. More recently, I've been exploring **AI agents, intelligent robotics, and connected systems**, bringing software closer to the physical world.
 
 ### 🔭 What I'm working on
 
-- **AI Agents & Intelligent Systems** — Building agent-based platforms with persistent memory, contextual reasoning, automation, and integrations with real-world services.
-- **Robotics & Embedded Systems** — Developing Roverics, exploring modular robotic platforms, mechanical design, electronics, sensors, and AI-powered interaction.
-- **Full-Stack Applications** — Building modern web platforms using React, TypeScript, ASP.NET Core, Python, and PostgreSQL.
-- **Enterprise Automation** — Developing CRM integrations, communication systems, business workflows, and intelligent monitoring solutions.
-- **Engineering Software** — Combining civil engineering expertise with programming, CAD/BIM automation, and computational design.
+- **AI Agents & Automation** — Building intelligent platforms with persistent memory, contextual reasoning, and real-world integrations.
+- **Robotics & Embedded Systems** — Developing [Roverics](https://roverics.com), combining mechanical design, electronics, software, and AI.
+- **Full-Stack Applications** — Building web platforms, APIs, CRM integrations, and business automation tools.
+- **Engineering Automation** — Developing computational tools for CAD, BIM, and structural engineering.
 
-### 🛠️ Technologies & Tools
+### 🛠️ Tech Stack
 
 **Languages:** C#, Python, TypeScript, JavaScript, SQL
+**Web & Backend:** ASP.NET Core, React, Flask, REST APIs, SignalR
+**AI & Infrastructure:** LLMs, AI Agents, MCP, PostgreSQL, SQL Server, Docker, Linux
+**Engineering:** FreeCAD, Revit, Civil 3D, AutoCAD, SAP2000, ETABS
 
-**Backend & Frontend:** ASP.NET Core, React, REST APIs, SignalR, Flask, FastAPI
-
-**AI & Automation:** LLMs, AI Agents, RAG, MCP, PyTorch, AI-assisted development
-
-**Data & Infrastructure:** PostgreSQL, SQL Server, Docker, Linux, Nginx, GitHub, Azure
-
-**Robotics & Engineering:** FreeCAD, Revit, Civil 3D, AutoCAD, SAP2000, ETABS, 3D Printing
-
-**Business Systems:** Dynamics 365, Power Platform, CRM Integration
-
-### 💡 What drives me
-
-I'm especially interested in the space where **artificial intelligence meets physical engineering** — where software becomes more than an interface and starts interacting meaningfully with the world.
-
-I believe the most interesting innovations often happen at the intersection of different disciplines.
-
-> Programming does more than help me build things — it changes the way I think.
+> Programming does more than help me build things, it changes the way I think.
